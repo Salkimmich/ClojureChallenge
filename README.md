@@ -2,7 +2,7 @@
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[#](./another-page.html).
+[Link to Another Page]().
 
 There should be whitespace between paragraphs.
 
